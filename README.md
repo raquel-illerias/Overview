@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thefriiastudent  ✨
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 Currently learning HTML, CSS and Javascript
 
