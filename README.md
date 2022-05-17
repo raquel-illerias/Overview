@@ -15,9 +15,11 @@ I'm a Front-end Developer who loves building websites. Take a look at my latest 
   <img align="center" height="64" width="64" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="64" width="64" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="64" width="64" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- 
+ </div>
+ ##
  <!---------------------------------------------------------------------Contact-------------------------------------------------------------------> 
  ###  <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/contacts.png"/> Contact me
+ 
   <div align="center"> 
   <a href="" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:raquel.illerias@gmail.com" target="_blank" title="Email me at raquel.illerias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
