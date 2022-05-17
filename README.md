@@ -1,7 +1,7 @@
 <!----------------------------------------------------------Greetings card & ConnectionBadges---------------------------------------------------------> 
  
  
-#  <img align="center" height="64" width="64" src="https://www.flaticon.com/free-animated-icon/wave_6416338?term=wave&page=1&position=1&page=1&position=1&related_id=6416338&origin=search" /> Welcome to my Github!
+#  <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/50/000000/document.png"/> Welcome to my Github!
 I'm a Front-end Developer who loves building websites. Take a look at my latest projects!
  <div align="center"> 
   <a href="" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
