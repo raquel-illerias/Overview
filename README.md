@@ -1,7 +1,7 @@
 <!----------------------------------------------------------Greetings card & ConnectionBadges---------------------------------------------------------> 
  
  
-#  <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/50/000000/document.png"/> Welcome to my Github!
+#  <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/document.png"/> Welcome to my Github!
 I'm a Front-end Developer who loves building websites. Take a look at my latest projects!
  <div align="center"> 
   <a href="" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,7 +11,7 @@ I'm a Front-end Developer who loves building websites. Take a look at my latest 
  ## 
 <!---------------------------------------------------------------------Current Goals-------------------------------------------------------------------> 
 
- ### <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/learning.png"/> My languages:
+ ### <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/opened-folder.png"/> My languages:
  
  <div align="center">
   <img align="center" height="64" width="64" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
