@@ -25,7 +25,7 @@ I'm a Front-end Developer who loves building websites. Take a look at my portfol
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/contacts.png"/> Contact me
  
   <div align="center"> 
-  <a href="[https://es.linkedin.com/in/raquel-iller%C3%ADas-g%C3%B3mez-44a94959?original_referer=](https://www.linkedin.com/in/raquel-illerias/)" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raquel-illerias/" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:raquel.illerias@gmail.com" target="_blank" title="Email me at raquel.illerias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
 
