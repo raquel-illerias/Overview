@@ -10,11 +10,13 @@ I'm a Front-end Developer who loves building websites. Take a look at my portfol
  
  <div align="center">
   <img padding="20px" align="center" height="64" width="64" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img padding="20px" align="center" height="64" width="64" title="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img padding="20px" align="center" height="64" width="64" title="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+  <img padding="20px" align="center" height="64" width="64" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
   <img padding="20px" align="center" height="64" width="64" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img padding="20px" align="center" height="64" width="64" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <br>
-  <img padding="20px" align="center" height="64" width="64" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img padding="20px" align="center" height="64" width="64" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img  padding="20px" align="center" height="64" width="64" title="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />          
    <img padding="20px" align="center" height="64" width="64" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">  <br>
    <img padding="20px" align="center" height="64" width="64" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
  </div>
