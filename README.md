@@ -7,6 +7,11 @@ I'm a Front-end Developer who loves building websites. Take a look at my portfol
 <!---------------------------------------------------------------------Current Goals-------------------------------------------------------------------> 
 
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/opened-folder.png"/> Languages and tools
+
+ * HTML5
+ * CSS3
+ * JavaScript
+ * TypeScript
  
  <div align="center">
   <img padding="20px" align="center" height="64" width="64" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
