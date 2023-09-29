@@ -17,34 +17,34 @@ _Languages_
  * 
  _Front-End Frameworks and Libraries_
  * React
- *Zustand
- *SASS
- *Bootstrap
- *Material UI
- *Styled Components
+ * Zustand
+ * SASS
+ * Bootstrap
+ * Material UI
+ * Styled Components
 
 _Testing_
- *React Testing Library
- *Jest
+ * React Testing Library
+ * Jest
 
 **Back-End Integration and APIs**
 
- *RESTful API Integration
+ * RESTful API Integration
  
 **Version Control and Collaboration**
 
- *Git
- *GitHub
+ * Git
+ * GitHub
  
 **Design and UI/UX**
 
- *Responsive design
- *SEO
- *Web accessibility 
- *Figma
- *Adobe XD
- *Adobe Photoshop
- *Adobe Illustrator
+ * Figma
+ * Adobe XD
+ * Adobe Photoshop
+ * Adobe Illustrator
+ * Responsive design
+ * SEO
+ * Web accessibility 
  
  <!---------------------------------------------------------------------Contact-------------------------------------------------------------------> 
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/bubbles/100/000000/contacts.png"/> Contact me
