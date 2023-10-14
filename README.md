@@ -33,7 +33,7 @@ _Testing_
 * React Testing Library
 * Jest
 
-**Databases, back-End Integration and APIs**
+**Databases, Back-End Integration and APIs**
 * MySQL
 * RESTful API Integration
  
