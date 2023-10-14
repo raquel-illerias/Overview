@@ -15,6 +15,12 @@ _Languages_
 * JavaScript
 * TypeScript
 
+* PHP
+* SQL
+
+_CMS_
+* Wordpress
+
 _Front-End Frameworks and Libraries_
 * React
 * Zustand
@@ -28,7 +34,7 @@ _Testing_
 * Jest
 
 **Back-End Integration and APIs**
-
+* MySQL
 * RESTful API Integration
  
 **Version Control and Collaboration**
